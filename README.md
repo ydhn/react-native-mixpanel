@@ -1,6 +1,4 @@
-![npm](https://img.shields.io/npm/dt/react-native-mixpanel.svg?style=for-the-badge)
-
-![npm](https://img.shields.io/npm/dm/react-native-mixpanel.svg?style=for-the-badge)
+[![BCH compliance](https://bettercodehub.com/edge/badge/davodesign84/react-native-mixpanel?branch=master)](https://bettercodehub.com/)
 
 
 # Description

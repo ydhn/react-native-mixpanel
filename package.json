@@ -1,22 +1,49 @@
 {
-  "name": "react-native-mixpanel",
-  "version": "1.0.2",
-  "description": "A React Native wrapper for Mixpanel tracking",
-  "main": "index.js",
-  "repository": {
+  "_from": "git+https://git@github.com/avid21/react-native-mixpanel.git",
+  "_id": "react-native-mixpanel@0.0.16",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-mixpanel",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/davodesign84/react-native-mixpanel.git"
+    "raw": "react-native-mixpanel@git+https://git@github.com/avid21/react-native-mixpanel.git",
+    "name": "react-native-mixpanel",
+    "escapedName": "react-native-mixpanel",
+    "rawSpec": "git+https://git@github.com/avid21/react-native-mixpanel.git",
+    "saveSpec": "git+https://git@github.com/avid21/react-native-mixpanel.git",
+    "fetchSpec": "https://git@github.com/avid21/react-native-mixpanel.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://git@github.com/avid21/react-native-mixpanel.git#7bdc8644146772584559205eb7243c7b1f8d7d3a",
+  "_spec": "react-native-mixpanel@git+https://git@github.com/avid21/react-native-mixpanel.git",
+  "_where": "/Users/yundo/Projects/miso/face-native",
+  "author": {
+    "name": "Davide Scalzo",
+    "email": "davidescalzo@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/davodesign84/react-native-mixpanel/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A React Native wrapper for Mixpanel tracking",
+  "homepage": "https://github.com/davodesign84/react-native-mixpanel#readme",
   "keywords": [
     "react-native",
     "react-component",
     "tracking",
     "mixpanel"
   ],
-  "author": "Davide Scalzo <davidescalzo@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/davodesign84/react-native-mixpanel/issues"
+  "main": "index.js",
+  "name": "react-native-mixpanel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davodesign84/react-native-mixpanel.git"
   },
-  "homepage": "https://github.com/davodesign84/react-native-mixpanel#readme"
+  "version": "0.0.16"
 }
